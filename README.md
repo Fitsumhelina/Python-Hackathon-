@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](#LICENSE) fil
 
 ---
 
-## LICENSE
-
+## License
 MIT License
 
+[Link to License](LICENSE)
